@@ -1,0 +1,1 @@
+This folder contains the cod and a ipython notebook for the peoject on 'Lane detection'.
